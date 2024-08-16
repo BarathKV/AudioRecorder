@@ -48,7 +48,7 @@ Make sure you are in the directory containing voice_recorder.py or provide the f
 
 - Click the "Start Recording" button to begin recording audio.
 - A label will indicate that recording is in progress.
-- 
+  
 2. Stop Recording:
 
 - Click the "Stop Recording" button to stop the recording.
